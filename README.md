@@ -103,6 +103,8 @@ Known-issues
 ------------
 As discussed on https://github.com/backdrop-contrib/simplenews/issues/16#issuecomment-1364366461 there is no currently an upgrade path from Drupal 7. 
 
+As discussed on https://github.com/backdrop-contrib/simplenews/issues/18 there is currently a bug if you use db prefixes.
+
 
 Credits
 -------
